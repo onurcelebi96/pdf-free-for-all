@@ -1,0 +1,14 @@
+.DS_Store
+._*
+.build/
+.swiftpm/
+Build/
+Publishing/
+tmp/
+*.dmg
+*.pkg
+*.zip
+*.sha256
+Assets/AppIcon.iconset/
+QA/
+TestData/
