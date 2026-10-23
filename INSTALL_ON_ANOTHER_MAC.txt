@@ -1,0 +1,31 @@
+PDF FREE FOR ALL — INSTALL ON ANOTHER MAC
+
+Package: PDF-Free-For-All-0.6.0-macOS-Universal.pkg
+
+Compatible target: macOS 14 or later, Apple Silicon or Intel Mac.
+This is a Mac-only application. macOS 13 and earlier, Windows and iPadOS are not supported.
+
+1. Copy the .pkg file to the other Mac (the project folder is not required).
+2. Save your work and quit any older PDF FREE FOR ALL copy.
+3. Double-click the .pkg to open the standard macOS Installer.
+4. Follow Continue / Install. An administrator may need to authorize it.
+5. Open PDF FREE FOR ALL from Applications or Spotlight.
+
+The complete app is installed at /Applications/PDF Free For All.app.
+It does not need Xcode, Swift tools, Python, Microsoft Word, the original Mac,
+this project folder, or an internet connection for the included PDF operations.
+No background service, browser extension, or login item is installed.
+Your original documents and default PDF application are not changed.
+
+CURRENT RELEASE LIMITATION
+This copy is locally signed, without Apple Developer ID or notarization.
+Internet-downloaded software may be blocked by macOS security checks.
+It cannot yet be described as an Apple-verified public internet installer.
+An Apple Developer account and distribution certificates are required to
+complete that part. Do not disable macOS security protections.
+
+Only this Mac has been used for runtime checks. Both CPU versions are compiled;
+other Macs and every supported macOS version have not been physically tested.
+
+Removal: quit the app, then move it from Applications to Trash.
+Keep your PDF documents separately. No uninstaller script is needed.
