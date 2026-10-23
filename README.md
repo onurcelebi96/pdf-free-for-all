@@ -2,13 +2,13 @@
 
 Free PDF tools for macOS, built with SwiftUI and PDFKit. Designed by Onur Celebi.
 
-![PDF FREE FOR ALL](Assets/FreePdforall-Wordmark.png)
+![PDF FREE FOR ALL](Assets/FreePdforall-Wordmark.svg)
 
 ## Download the preview
 
-[Download macOS preview v0.6.0](https://github.com/onurcelebi96/pdf-free-for-all/releases/tag/v0.6.0)
+Installer downloads are being prepared. Source code is available now; a v0.6.0 preview release is saved as a draft and has not been published.
 
-The release includes a guided `.pkg` installer, an optional `.dmg`, and a ZIP containing the installer. Download an installer from **Releases**; the automatic source-code ZIP is for developers.
+The planned release contains a guided `.pkg` installer, an optional `.dmg`, and a ZIP containing the installer. GitHub source-code archives are for developers. Artwork PNGs and the macOS icon are generated locally by the build scripts.
 
 **Distribution status:** this preview has an ad-hoc signed app, an unsigned installer, and no Apple notarization. Gatekeeper rejected the installer during assessment with “no usable signature.” An internet-downloaded copy may be blocked. Do not disable macOS security protections. Developer ID signing, notarization, and testing on other Macs remain incomplete.
 
